@@ -1,0 +1,98 @@
+body{
+    background-color: #781D42;
+}
+
+
+
+form{
+    
+    width: 60%px;
+    height: 700px;
+    margin: 30px 30px 30px 30px;
+    box-shadow: 0px 8px 16px 4px;
+    padding: 30px;
+    border-radius: 20px;
+    background-color: #F7F7F7;
+    
+   
+    
+}
+
+.division1{
+            width: 30%;
+            height: 700px;
+            float: left;
+            background-image: url(./welcome.jpg);
+            background-repeat: no-repeat;
+            background-size: contain;
+            
+}
+
+
+
+.division2{
+               width: 70%;
+               height: 700px;
+               float: right;
+              background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGa-E86gn70SerogWHHEx5w9cxRI9dTMX8ug&usqp=CAU);
+              
+             background-repeat: no-repeat;
+              background-size:cover;
+              border-radius: 20px;
+}
+
+
+
+h1{
+     text-align: center;
+     color: white;
+}
+ 
+ button{
+        height: 40px;
+        width: fit-content;
+        border-radius: 20px;
+        margin-left: 150px;
+        color: white;
+        
+ }
+.input{
+         height: 30px;
+         width: 200px;
+         display: inline-block;
+         border-radius: 20px;
+         margin: 50px 0px 0px 50px;
+         text-align: center;
+         
+        
+}
+
+.password{
+    height: 30px;
+    width: 200px;
+    display: inline-block;
+    border-radius: 20px;
+    margin: 70px 0px 0px 50px;
+    text-align: center;
+         
+   
+}
+[type="checkbox"]{
+                    margin: 100px 0px 0px 150px;
+                    height: 20px;
+                    border-radius: 20px;
+                    color: white;
+                    
+}
+.sign-up{
+           width: 200px;
+           margin: 60px 0px 0px 150px;
+           font: 20px;
+           background-color: crimson;
+           color: white;
+}
+strong{
+     color: white;
+     margin-left: 50px;
+}
+
